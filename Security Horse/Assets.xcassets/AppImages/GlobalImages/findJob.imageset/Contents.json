@@ -1,0 +1,73 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle_ss-1.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle_ss.png",
+      "graphics-feature-set" : "metal1v2",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle-1.png",
+      "graphics-feature-set" : "metal2v2",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle.png",
+      "graphics-feature-set" : "metal3v1",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle_aa2-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle_aa2.png",
+      "graphics-feature-set" : "metal1v2",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle@2x.png-1.png",
+      "graphics-feature-set" : "metal2v2",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Get Hired rectangle@2x.png.png",
+      "graphics-feature-set" : "metal3v1",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "graphics-feature-set" : "metal1v2"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "graphics-feature-set" : "metal2v2"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "graphics-feature-set" : "metal3v1"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
